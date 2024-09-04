@@ -1,0 +1,84 @@
+ [
+      {
+        "id": 1,
+        "type":"html",
+        "title": "Discover the World",
+        "image": "./src/data/slide1.jpg",
+        "paragraph": "Explore new destinations and immerse yourself in different cultures around the globe.",
+        "link": "https://example.com/discover"
+      },
+      {
+        "id": 2,
+        "type":"css",
+        "title": "The Future of Technology",
+        "image": "./src/data/slide2.jpg",
+        "paragraph": "Stay ahead with the latest trends and innovations in the tech industry.",
+        "link": "https://example.com/technology"
+      },
+      {
+        "id": 3,
+        "type":"js",
+        "title": "Healthy Living",
+        "image": "./src/data/slide3.jpg",
+        "paragraph": "Learn how to maintain a balanced lifestyle with tips on nutrition, fitness, and wellness.",
+        "link": "https://example.com/health"
+      },
+      {
+        "id": 4,
+        "type":"css",
+        "title": "Creative Art",
+        "image": "./src/data/slide4.jpg",
+        "paragraph": "Dive into the world of creativity and explore various forms of artistic expression.",
+        "link": "https://example.com/art"
+      },
+      {
+        "id": 5,
+        "type":"html",
+        "title": "Financial Freedom",
+        "image": "./src/data/slide5.jpg",
+        "paragraph": "Manage your finances effectively and plan for a secure and prosperous future.",
+        "link": "https://example.com/finance"
+      },
+      {
+        "id": 6,
+        "type":"css",
+        "title": "Travel Tips",
+        "image": "./src/data/slide6.jpg",
+        "paragraph": "Get the best advice and tips for your next adventure, from packing to navigating new cities.",
+        "link": "https://example.com/travel"
+      },
+      {
+        "id": 7,
+        "type":"html",
+        "title": "Delicious Recipes",
+        "image": "./src/data/slide7.jpg",
+        "paragraph": "Explore a variety of mouth-watering recipes that you can try at home.",
+        "link": "https://example.com/recipes"
+      },
+      {
+        "id": 8,
+        "type":"js",
+        "title": "Home Improvement",
+        "image": "./src/data/slide8.jpg",
+        "paragraph": "Transform your living space with these easy and effective home improvement tips.",
+        "link": "https://example.com/home-improvement"
+      },
+      {
+        "id": 9,
+        "type":"html",
+        "title": "Learning New Skills",
+        "image": "./src/data/slide9.jpg",
+        "paragraph": "Enhance your knowledge and abilities with resources to learn new skills.",
+        "link": "https://example.com/skills"
+      },
+      {
+        "id": 10,
+        "type":"html",
+        "title": "Learning New  10",
+        "image": "./src/data/slide9.jpg",
+        "paragraph": "Enhance your knowledge and abilities with resources to learn new skills.",
+        "link": "https://example.com/skills"
+      }
+    ]
+
+  

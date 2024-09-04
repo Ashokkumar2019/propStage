@@ -1,0 +1,32 @@
+[
+      {
+        "id": 1,
+        "image": "./src/assets/slide1.jpg",
+        "title": "Welcome to Our Site!",
+        "description": "Discover amazing features and explore new opportunities with our services.",
+        "link": "https://example.com"
+      },
+      {
+        "id": 2,
+        "image": "./src/assets/slide2.jpg",
+        "title": "Innovative Solutions",
+        "description": "Our cutting-edge solutions are designed to meet your needs and exceed your expectations.",
+        "link": "https://example.com/solutions"
+      },
+      {
+        "id": 3,
+        "image": "./src/assets/slide3.jpg",
+        "title": "Join Our Community",
+        "description": "Be part of a vibrant community and stay updated with the latest news and offers.",
+        "link": "https://example.com/community"
+      },
+      {
+        "id": 4,
+        "image": "./src/assets/slide4.jpg",
+        "title": "Contact Us",
+        "description": "Get in touch with our support team for any inquiries or assistance you may need.",
+        "link": "https://example.com/contact"
+      }
+    ]
+ 
+  
